@@ -1,0 +1,226 @@
+{
+  "project_name": "figma_analysis",
+  "generated_at": "2025-06-07 18:01:29",
+  "frames": [
+    {
+      "frame_id": "home",
+      "tasks": [
+        "Implement dashboard UI",
+        "Add task list component",
+        "Implement task filtering and sorting",
+        "Add navigation to task details"
+      ],
+      "description": "Dashboard screen displaying task list and filtering options",
+      "navigation": "Navigates to task details frame",
+      "node_images": [],
+      "metadata": "Node Type: FRAME\nNode Name: home \nPosition: x=2719.5px, y=0.0px\nSize: width=414.0px, height=896.0px\nFill Color: #ffffff"
+    },
+    {
+      "frame_id": "Meditatev2",
+      "tasks": [
+        "Implement dashboard UI",
+        "Add navigation",
+        "Style text components",
+        "Implement icon tap actions",
+        "Add state changes for icons"
+      ],
+      "description": "Dashboard screen for task management app with navigation to different sections",
+      "navigation": "Navigates to Home, Meditate, Sleep, Music, Kids sections",
+      "node_images": [],
+      "metadata": "Node Type: FRAME\nNode Name: Meditate v2\nPosition: x=3632.5px, y=0.0px\nSize: width=414.0px, height=896.0px\nFill Color: #ffffff"
+    },
+    {
+      "frame_id": "COURSEDetails",
+      "tasks": [
+        "Implement COURSE Details UI",
+        "Add Pick a Narrator button functionality",
+        "Implement Focus Attention button functionality",
+        "Implement Scan button functionality",
+        "Implement Making Happiness button functionality",
+        "Style buttons with rounded corners and hover effects",
+        "Implement text formatting for title and body",
+        "Add navigation to narrator selection screen"
+      ],
+      "description": "COURSE Details frame displaying course information and interactive buttons for narrator selection and meditation sessions.",
+      "navigation": "Navigates to narrator selection screen and meditation session screens",
+      "node_images": [],
+      "metadata": "Node Type: FRAME\nNode Name: COURSE Details \nPosition: x=3176.0px, y=0.0px\nSize: width=414.0px, height=896.0px\nFill Color: #ffffff"
+    },
+    {
+      "frame_id": "choosetopic",
+      "tasks": [
+        "Design topic selection UI",
+        "Implement topic selection interaction",
+        "Connect topic selection to task list"
+      ],
+      "description": "Topic selection screen for users to choose a topic to view related tasks",
+      "navigation": "Navigates to task list frame",
+      "node_images": [],
+      "metadata": "Node Type: FRAME\nNode Name: choose topic \nPosition: x=1807.5px, y=0.0px\nSize: width=414.0px, height=896.0px\nFill Color: #ffffff"
+    },
+    {
+      "frame_id": "Reminders",
+      "tasks": [
+        "Implement Reminders UI",
+        "Create interactive time selection",
+        "Develop day of the week selection",
+        "Add SAVE and NO THANKS functionality",
+        "Implement checkmark state changes",
+        "Style buttons and labels",
+        "Add navigation to next frame"
+      ],
+      "description": "Reminders frame for setting meditation time and day preferences.",
+      "navigation": "Navigates to next frame in task management flow",
+      "node_images": [],
+      "metadata": "Node Type: FRAME\nNode Name: Reminders\nPosition: x=2263.5px, y=0.0px\nSize: width=414.0px, height=896.0px\nFill Color: #ffffff"
+    },
+    {
+      "frame_id": "welcome",
+      "tasks": [
+        "Implement welcome screen UI",
+        "Add GET STARTED button functionality",
+        "Style text and elements according to design",
+        "Position and size elements absolutely"
+      ],
+      "description": "Welcome screen with logo, text, and GET STARTED button",
+      "navigation": "Navigates to another screen",
+      "node_images": [],
+      "metadata": "Node Type: FRAME\nNode Name: welcome \nPosition: x=1351.5px, y=0.0px\nSize: width=414.0px, height=896.0px\nFill Color: #8e97fd"
+    },
+    {
+      "frame_id": "signin",
+      "tasks": [
+        "Implement UI for signin frame",
+        "Add Facebook and Google signin functionality",
+        "Implement email and password input fields",
+        "Add login functionality",
+        "Implement forgot password functionality",
+        "Add navigation to sign up frame"
+      ],
+      "description": "Signin frame for users to login or sign up for the task management app",
+      "navigation": "Navigates to dashboard frame after successful login",
+      "node_images": [],
+      "metadata": "Node Type: FRAME\nNode Name: sign in\nPosition: x=453.7611083984375px, y=0.0px\nSize: width=414.0px, height=896.0px\nFill Color: #ffffff"
+    },
+    {
+      "frame_id": "signup",
+      "tasks": [
+        "Implement UI for sign up frame",
+        "Add Facebook login functionality",
+        "Add Google login functionality",
+        "Implement form submission with GET STARTED button",
+        "Add text input functionality for afsar, imshuvo97@gmail.com, and Password",
+        "Implement checkbox toggle for privacy policy acceptance"
+      ],
+      "description": "Sign up frame for task management app",
+      "navigation": "Navigates to dashboard frame after successful sign up",
+      "node_images": [],
+      "metadata": "Node Type: FRAME\nNode Name: sign up\nPosition: x=900.2388916015625px, y=0.0px\nSize: width=414.0px, height=896.0px\nFill Color: #ffffff"
+    },
+    {
+      "frame_id": "signupandSignin",
+      "tasks": [
+        "Implement UI",
+        "Add navigation",
+        "Style text and button",
+        "Implement tap/click actions"
+      ],
+      "description": "Landing page for Silent Moon app, promoting meditation and sign-up functionality.",
+      "navigation": "Navigates to sign-up page and log-in page",
+      "node_images": [],
+      "metadata": "Node Type: FRAME\nNode Name: sign up and Sign in\nPosition: x=2.5px, y=0.0px\nSize: width=414.0px, height=896.0px\nFill Color: #ffffff"
+    },
+    {
+      "frame_id": "musicV2",
+      "tasks": [
+        "Implement UI components (text, image/icon, TextInput)",
+        "Style UI components (colors, typography, borders, radius)",
+        "Implement play/pause button interaction",
+        "Implement timer control interaction",
+        "Implement settings icon interaction"
+      ],
+      "description": "Music player screen with play/pause, timer controls, and settings",
+      "navigation": "None",
+      "node_images": [],
+      "metadata": "Node Type: FRAME\nNode Name: music V2\nPosition: x=4113.0px, y=0.0px\nSize: width=414.0px, height=896.0px\nFill Color: #faf6f2"
+    },
+    {
+      "frame_id": "sleep",
+      "tasks": [
+        "Design sleep frame UI",
+        "Implement sleep mode toggle",
+        "Add sleep mode functionality"
+      ],
+      "description": "Sleep mode frame for task management app, allowing users to pause tasks temporarily.",
+      "navigation": "Navigates to task list frame",
+      "node_images": [
+        "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/03bd6bbe-be66-4cb0-b115-0b69b418a975",
+        "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/44d8ee4f-5112-4e43-a60e-68f85d7e586f",
+        "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/a0cf6a9c-995f-413a-be4f-b7cc17f19727",
+        "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/a9328abb-1f14-496d-b01d-5afe105fed95"
+      ],
+      "metadata": "Node Type: FRAME\nNode Name: sleep\nPosition: x=512.095703125px, y=1193.0px\nSize: width=414.0px, height=896.0px\nFill Color: #03174c\n\nFrame Images:\nImage Node ID: 5:4071, Name: 204_1, URL: https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/03bd6bbe-be66-4cb0-b115-0b69b418a975\nImage Node ID: 5:4792, Name: 228_1, URL: https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/44d8ee4f-5112-4e43-a60e-68f85d7e586f\nImage Node ID: 5:4796, Name: Rectangle_7, URL: https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/a0cf6a9c-995f-413a-be4f-b7cc17f19727\nImage Node ID: 5:4797, Name: 228_1, URL: https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/a9328abb-1f14-496d-b01d-5afe105fed95"
+    },
+    {
+      "frame_id": "playoption",
+      "tasks": [
+        "Design play button",
+        "Implement play button animation",
+        "Handle play button click event"
+      ],
+      "description": "Play button for task playback feature",
+      "navigation": "Navigates to task playback screen",
+      "node_images": [
+        "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/0f57a49d-29c2-44b8-b3f8-854b72125d82"
+      ],
+      "metadata": "Node Type: FRAME\nNode Name: play option \nPosition: x=1023.793701171875px, y=1193.0px\nSize: width=414.0px, height=896.0px\nFill Color: #03174c\n\nFrame Images:\nImage Node ID: 5:6478, Name: 204_1, URL: https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/0f57a49d-29c2-44b8-b3f8-854b72125d82"
+    },
+    {
+      "frame_id": "music",
+      "tasks": [
+        "Implement music player UI",
+        "Add play/pause functionality",
+        "Implement favorite button toggle",
+        "Add navigation for back button",
+        "Implement previous and next track functionality",
+        "Style music title and description text",
+        "Implement progress bar",
+        "Add tap/click actions for more options button"
+      ],
+      "description": "Music player frame with play/pause, favorite button, and navigation to previous/next tracks.",
+      "navigation": "Navigates back to previous frame",
+      "node_images": [],
+      "metadata": "Node Type: FRAME\nNode Name: music\nPosition: x=2056.5px, y=1193.0px\nSize: width=414.0px, height=896.0px\nFill Color: #03174c"
+    },
+    {
+      "frame_id": "welcomesleep",
+      "tasks": [
+        "Implement Welcome Screen UI",
+        "Design GET STARTED button",
+        "Add navigation to next screen"
+      ],
+      "description": "Welcome screen with GET STARTED button to navigate to next screen",
+      "navigation": "Navigates to Task List screen",
+      "node_images": [],
+      "metadata": "Node Type: FRAME\nNode Name: welcome sleep\nPosition: x=0.397705078125px, y=1193.0px\nSize: width=414.0px, height=896.0px\nFill Color: #03174c"
+    },
+    {
+      "frame_id": "sleepmusic",
+      "tasks": [
+        "Design task card UI",
+        "Implement task list scrolling",
+        "Add task creation button",
+        "Implement task creation form",
+        "Design user profile UI",
+        "Implement user profile editing functionality"
+      ],
+      "description": "Task management dashboard with task list and user profile features",
+      "navigation": "Navigates to task creation form",
+      "node_images": [
+        "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/d23dc9a3-853d-481f-804f-fd7d52cb49eb",
+        "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/54f19763-57bc-4998-b1dc-b38660583316"
+      ],
+      "metadata": "Node Type: FRAME\nNode Name: sleep music\nPosition: x=1535.49169921875px, y=1193.0px\nSize: width=414.0px, height=896.0px\nFill Color: #03174c\n\nFrame Images:\nImage Node ID: 5:7479, Name: 204_1, URL: https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/d23dc9a3-853d-481f-804f-fd7d52cb49eb\nImage Node ID: 5:7908, Name: 204_1, URL: https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/54f19763-57bc-4998-b1dc-b38660583316"
+    }
+  ]
+}
